@@ -59,7 +59,7 @@ Roadmap: WebAuthn · MFA · Advanced RBAC · Production presets
 
 ---
 
-### [`Authenik8`](https://github.com/COD434/Authenik8) — The production API
+### [`Authenik8`](https://github.com/COD434/Authenik8)  The production API
 ![CI](https://github.com/COD434/Authenik8/actions/workflows/CI.yml/badge.svg?branch=main&event=push)
 ![Documents Passing](https://img.shields.io/badge/documents-passing-brightgreen)
 ![SQLi Passing](https://img.shields.io/badge/SecurityTests-passing-brightgreen)
