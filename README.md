@@ -1,15 +1,12 @@
 # Hey, I'm Karabo 
 
-Self-taught backend engineer focused on authentication systems, API security, and developer tooling. I don't just use Auth,I build the infrastructure behind it and i have fun doing it. I also play PUBG when I feel like relaxing😏 
+Self-taught backend engineer and Opensource maintainer .I am into authentication , building APIs and dev tools. 
+I also play PUBG mobile when I feel like relaxing you can find me by EAZII we can 1v1  and talk dev stuff if you're game 😏 
 
 Currently I am:
 
-- Deepening my  cryptography knowledge to strengthen the security foundations of Authenik8
-
-- Deepening my understanding of system design and DSAs to build more scalable, production-grade systems 
-
-- Extending the Authenik8 ecosystem  next milestone: integrating the standalone API into the CLI as an optional preset
-
+Just vibing .... also have fun with these tools below.
+ 
 ---
 
 ## 🛠️ Tech Stack
@@ -29,12 +26,12 @@ Currently I am:
 
 ##  The Authenik8 Ecosystem
 
-Most developers bolt auth on at the end. I built an entire ecosystem around doing it right from the start.
+Most developers bolt auth on at the end. I built an entire ecosystem around doing it right from the start and i am having fun while doing it.
 
 ### [`authenik8-core`](https://www.npmjs.com/package/authenik8-core) The Identity Engine
 ![npm](https://img.shields.io/npm/v/authenik8-core?style=flat-square&color=CB3837&logo=npm)
 
-The core library powering the entire ecosystem. An Identity Engine that resolves credentials, OAuth profiles, and future auth strategies into a unified system identity  preventing duplicate identities and handling login vs. account-linking flows consistently.
+The core library powering the entire ecosystem. An Identity Engine that resolves credentials, OAuth profiles, and future auth strategies into a unified system identity  preventing duplicate identities and handling login vs. account-linking flows consistently. currently this is in beta
 
 ---
 
@@ -60,9 +57,9 @@ Roadmap: WebAuthn · MFA · Advanced RBAC · Production presets
 ---
 
 ### [`Authenik8`](https://github.com/COD434/Authenik8)  The production API
-![CI](https://github.com/COD434/Authenik8/actions/workflows/CI.yml/badge.svg?branch=main&event=push)
-![Documents Passing](https://img.shields.io/badge/documents-passing-brightgreen)
-![SQLi Passing](https://img.shields.io/badge/SecurityTests-passing-brightgreen)
+![CI](https://github.com/COD434/Authenik8/actions/workflows/ci.yml/badge.svg?branch=main&event=push)
+![Contributions](https://img.shields.io/badge/Contributions-Welcomed-brightgreen)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)
 
 A standalone, attach-to-any-frontend auth API built for real production workloads.
 
@@ -92,13 +89,15 @@ The Authenik8 ecosystem
 
 ## Currently Studying
 
-![Cryptography](https://img.shields.io/badge/Cryptography-deepening-blueviolet?style=flat-square)
-![System Design](https://img.shields.io/badge/System%20Design-deepening-blue?style=flat-square)
-![DSA](https://img.shields.io/badge/DSA-active-orange?style=flat-square)
+![Cryptography](https://img.shields.io/badge/Cryptography-Awesome-blueviolet?style=flat-square)
+![System Design](https://img.shields.io/badge/System%20Design-Cool-blue?style=flat-square)
+![DSA](https://img.shields.io/badge/DSA-ForFun-blue?style=flat-square)
+
 
 ---
 
 ## 📬 Get In Touch
+
 
 [![Gmail](https://img.shields.io/badge/Email-seeisakarabo2%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seeisakarabo2@gmail.com)
 [![npm](https://img.shields.io/badge/npm-authenik8--core-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/authenik8-core)
