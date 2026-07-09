@@ -1,6 +1,6 @@
 # Hey, I'm Karabo 
 
-Self-taught backend engineer and Opensource maintainer .I am into authentication , building APIs and dev tools. 
+I am backend engineer and Opensource maintainer .I am focused authentication and identity systems. 
 I also play PUBG mobile when I feel like relaxing you can find me by EAZII we can 1v1  and talk dev stuff if you're game 😏 
 
 Currently I am:
