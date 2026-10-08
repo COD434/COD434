@@ -1,13 +1,7 @@
 # Hey, I'm Karabo 
 
 I am backend engineer and Opensource maintainer .I am focused authentication and identity systems. 
-I also play PUBG mobile when I feel like relaxing you can find me by EAZII we can 1v1  and talk dev stuff if you're game 😏 
-
-Currently I am:
-
-Just vibing .... also have fun with these tools below.
- 
----
+ ---
 
 ## 🛠️ Tech Stack
 
